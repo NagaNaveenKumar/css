@@ -1,0 +1,133 @@
+body{
+  
+  margin :0;
+  text-align:center;
+
+font-family: 'Merriweather', serif;
+}
+
+.top{
+  background-color:#6fc2d0;
+  padding-top: 100px
+
+
+
+}
+ h1{
+   font-size: 4.625rem;
+    color: #085f63;
+    line-height:2;
+    font-family: cursive;
+    margin:50px auto 0 auto;
+
+ }
+ h2{
+     color: #085f63;
+   font-size:1.5rem;
+   font-weight:normal;
+   font-family: 'Montserrat', sans-serif;
+   padding-bottom: 10px;
+ }
+ h3{
+   font-family: 'Montserrat', sans-serif;
+     color: #11999E;
+ }
+ p{
+   line-height:2;
+ }
+ .skill-row{
+   width:50%;
+   margin:100px auto 100px auto;
+   text-align: left;
+
+ }
+ .computer{
+   width:25%;
+   float: left;
+   margin-right: 30px;
+ }
+  .chillies{
+    width:25%;
+    float:right;
+    margin-left: 30px;
+    }
+ .topcloud{
+   position:absolute;
+   right:300px;
+   top:35px;
+ }.dhoni{
+   border-radius:100%;
+ }
+.middle-container{
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.intro
+{
+  width:30%;
+  margin:auto;
+}
+ .cloud1{
+   position:absolute;
+   left:300px;
+   bottom:300px;
+ }
+ .footer-link{
+   color:#11999E;
+ }
+ .contact{
+   width:40%;
+   margin: 20px auto;
+ }
+ .lat
+  {
+   color: #ffffff;
+   font-family: Montserrat;
+
+ }
+ .butn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Montserrat;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  border: solid #11cdd4 2px;
+  text-decoration: none;
+}
+
+.butn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+ hr{
+   width:4%;
+   border-style: dotted;
+   border-color:  #11999E;
+   border-bottom: none;
+   border-radius: 10px;
+   margin: 60px auto;
+ }
+ .bottom-container{
+   background-color: #085f63;
+
+ }
+ .footer-link{
+   color: #EAF6F6;
+   font-family: Montserrat;
+   margin:10px 20px;
+   text-decoration:none;
+ }
+.footer-link:hover{
+  color:#EAF6F6;
+}
